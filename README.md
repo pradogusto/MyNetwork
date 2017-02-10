@@ -1,7 +1,7 @@
 # My social network graph
 
 ![alt tag](https://github.com/pradogusto/MyNetwork/blob/master/pic/FB.png)
-Here is an example of a plot where you can find the number of connection my friends have together : https://plot.ly/~pradogusto/2.embed
+Here is an example of a plot where you can find the number of connection my friends have together : <a href="https://plot.ly/~pradogusto/2.embed" target="_blank">https://plot.ly/~pradogusto/2.embed</a>
 ![alt tag](https://github.com/pradogusto/MyNetwork/blob/master/pic/new_plot.png)
 ## Facebook scrapping
 
