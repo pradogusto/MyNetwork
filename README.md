@@ -1,5 +1,5 @@
 # My social network graph
-This presentation resume a project I’ve made where I display my Facebook network and do some analysis on it. It is coded in python, find the code in the jupiter Notebook /facebook_network.ipynb, you’ll have some explanations. Libraries used are Selenium for scrapping, NetworkX for building graphs, Plotly for visualization.
+This presentation resume a project I've made where I display my Facebook network and do some analysis on it. It is coded in python, find the code in the jupiter Notebook [facebook_network.ipynb](facebook_network.ipynb), you'll have some explanations. Libraries used are *Selenium* for scrapping, *NetworkX* for building graphs and *Plotly* for visualization.
 
 ![alt tag](https://github.com/pradogusto/MyNetwork/blob/master/pic/FB.png)
 Here is a plot where you can find the number of connection my friends have together : https://plot.ly/~pradogusto/0.embed
@@ -7,7 +7,7 @@ Here is a plot where you can find the number of connection my friends have toget
 ![alt tag](https://github.com/pradogusto/MyNetwork/blob/master/pic/new_plot.png)
 ## Facebook scrapping
 
-For the first part of this project, I use Selenium to scrap my Facebook account. The goal is to see how much is Facebook open for scrapping data, maybe for other purpose later. Finally, Selenium is a very practical library, especially to move quickly from a Facebook profile to an other, but Facebook changes quite often the code of its pages and sometimes the same code doesn’t work the day after, if you don’t change one line where the web element you want to select has changed. You can find a little demo of scrapping [here] (https://www.youtube.com/watch?v=KurcdkvC9U4). Functions can be found in /scrap_function.py
+For the first part of this project, I use Selenium to scrap my Facebook account. The goal is to see how much is Facebook open for scrapping data, maybe for other purpose later. Finally, Selenium is a very practical library, especially to move quickly from a Facebook profile to an other, but Facebook changes quite often the code of its pages and sometimes the same code doesn't work the day after, if you don't change one line where the web element you want to select has changed. You can find a little demo of scrapping [here] (https://www.youtube.com/watch?v=KurcdkvC9U4). Functions can be found in [/scrap_function.py](/scrap_function.py)
 
 ## Friends
 
